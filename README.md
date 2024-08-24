@@ -1,12 +1,11 @@
-# OZZYDDoS BY NTTP1721
+# SETUP NODEJS TERMUX
 
-"SETUP TERMINAL"
-apt update
-apt upgrade
-apt install zip git python python3-pip 
-pip install requests colored
-pip install colorama
-git clone https://github.com/Nttp1721/OZZYDDoS
-cd OZZYDDoS
-python3 ozzy.py
+termux-setup-storage && apt update && apt upgrade && pkg install nodejs && npm i user-agents && npm i colors
 
+# LỆNH CHẠY TOOL
+cd storage
+cd downloads
+node tls <TARGET> <TIME> <RQ/S> <THREADS> <PROXYS>
+
+# YOUTUBE: BPM TOOL
+# CRACK BY NGUYEN PHU
