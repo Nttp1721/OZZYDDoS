@@ -9,6 +9,5 @@ unzip bpmtool
 cd bpmtool
 node tls <TARGET> <TIME> <RQ/S> <THREADS> <PROXYS>
 
-# YOUTUBE: BPM TOOL
-# CRACK BY NGUYEN PHU
+# CRACK BY Nttphu1721
 
